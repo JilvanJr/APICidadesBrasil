@@ -1,0 +1,14 @@
+# Pastas de Build e Release
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Outros arquivos
+.settings/
+
+# Executaveis
+*.swf
+*.air
+*.ipa
+*.apk
